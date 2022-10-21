@@ -13,3 +13,7 @@
 
 Reference
 https://stackoverflow.com/questions/18177148/xampp-mysql-does-not-start
+
+
+## PHPMyAdmin Error (HY000/1045): Access denied | Cannot Connect to Server | localhost
+https://www.youtube.com/watch?v=o56L2He3YbA
