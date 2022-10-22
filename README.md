@@ -17,3 +17,9 @@ https://stackoverflow.com/questions/18177148/xampp-mysql-does-not-start
 
 ## PHPMyAdmin Error (HY000/1045): Access denied | Cannot Connect to Server | localhost
 https://www.youtube.com/watch?v=o56L2He3YbA
+
+## phpMyadmin "Invalid Server Index"
+https://forums.phpfreaks.com/topic/73996-solved-phpmyadmin-invalid-server-index/
+
+## mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost'
+https://stackoverflow.com/questions/72439819/mysqli-connect-hy000-1045-access-denied-for-user-rootlocalhost
